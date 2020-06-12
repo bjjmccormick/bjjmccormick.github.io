@@ -45,6 +45,8 @@ ul.posts li {
 
 .logo { 
          background: url("/logo.png") no-repeat; 
+        width: 368px; 
+         height: 68px; 
          display: block; 
          text-indent: -9999px;
 }
