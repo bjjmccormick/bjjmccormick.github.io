@@ -1,2 +1,5 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
+sidebar:
+  title: "PriorityVax help"
+  nav: sidebar-sample
